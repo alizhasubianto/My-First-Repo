@@ -1,5 +1,7 @@
 Nama	: Alizha
 
-NPM	: 2106652000
+NPM   : 2106652000
 
 Kelas	: D
+
+Hobi  : tidur
